@@ -1,0 +1,36 @@
+{
+  "name": "id-shp",
+  "version": "0.0.0",
+  "description": "Identify a SHP File in a Variety of In-Memory Objects, including ArrayBuffer, Buffer, DataView, and Uint8Array",
+  "main": "is-shp.js",
+  "files": [
+    "is-shp.js"
+  ],
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielJDufour/id-shp.git"
+  },
+  "keywords": [
+    "arraybuffer",
+    "buffer",
+    "dataview",
+    "id",
+    "png",
+    "uint8array"
+  ],
+  "author": "Daniel J. Dufour",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/DanielJDufour/id-shp/issues"
+  },
+  "homepage": "https://github.com/DanielJDufour/id-shp#readme",
+  "dependencies": {
+    "get-byte": "0.0.0"
+  },
+  "devDependencies": {
+    "ava": "^3.12.1"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-85.267222, 35.045556]
+  },
+  "properties": {
+    "name": "Chattanooga"
+  }
+}
