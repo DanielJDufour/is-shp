@@ -1,6 +1,6 @@
 {
   "name": "is-shp",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Identify a SHP File in a Variety of In-Memory Objects, including ArrayBuffer, Buffer, DataView, and Uint8Array",
   "main": "is-shp.js",
   "files": [
