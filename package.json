@@ -1,5 +1,5 @@
 {
-  "name": "id-shp",
+  "name": "is-shp",
   "version": "0.0.0",
   "description": "Identify a SHP File in a Variety of In-Memory Objects, including ArrayBuffer, Buffer, DataView, and Uint8Array",
   "main": "is-shp.js",
